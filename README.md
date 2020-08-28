@@ -1,2 +1,2 @@
 # Plinko
-##completed my white hat jr project
+#completed my white hat jr project
